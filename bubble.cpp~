@@ -1,0 +1,39 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+struct lnk_lst{
+   int data;
+   struct lnk_lst *next;
+};
+
+struct lnk_lst *head;
+
+int main(){
+
+	lnk_lst* fst=(lnk_lst*) malloc(sizeof(struct lnk_lst));
+	int b=10;
+        fst[0]=(12,&b);
+	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

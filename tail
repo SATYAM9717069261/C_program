@@ -1,0 +1,1000 @@
+ 1026  clear
+ 1027  ./merge_sort
+ 1028  clear
+ 1029  ./merge_sort
+ 1030  g++ merge*.cpp -o merge_sort
+ 1031  ./merge_sort
+ 1032  g++ merge*.cpp -o merge_sort
+ 1033  ./merge_sort
+ 1034  cd Desktop
+ 1035  clear
+ 1036  cd Compu*
+ 1037  clear
+ 1038  l
+ 1039  vim merge*.cpp
+ 1040  ll
+ 1041  rm -r *.swp
+ 1042  rm *.swp
+ 1043  rm .*.swp
+ 1044  ll
+ 1045  vim merge*.cpp
+ 1046  cd Desktop
+ 1047  cd Compu*
+ 1048  clear
+ 1049  ./merge_sort
+ 1050  clear
+ 1051  g++ merge*.cpp -o merge_sort
+ 1052  ll
+ 1053  clear
+ 1054  l
+ 1055  ./merge_sort
+ 1056  cd Desk*
+ 1057  cd Comp*
+ 1058  cd Compt*
+ 1059  cd Compu*
+ 1060  clear
+ 1061  ll
+ 1062  clear
+ 1063  l
+ 1064  vim merg*
+ 1065  vim merge_*.cpp
+ 1066  cd Desktop/comput*
+ 1067  cd Desktop/computa*
+ 1068  cd Desktop/Computa*
+ 1069  clear
+ 1070  l
+ 1071  g++ Count_swap.cpp -o count_swap
+ 1072  ./count_swap
+ 1073  g++ Count_swap.cpp -o count_swap
+ 1074  clear
+ 1075  ./count_swap
+ 1076  g++ Count_swap.cpp -o count_swap
+ 1077  clear
+ 1078  g++ Count_swap.cpp -o count_swap
+ 1079  clear
+ 1080  g++ Count_swap.cpp -o count_swap
+ 1081  clear
+ 1082  ./count_swap
+ 1083  g++ Count_swap.cpp -o count_swap
+ 1084  ./count_swap
+ 1085  l
+ 1086  vim merge_sort.cpp
+ 1087  g++ Count_swap.cpp -o count_swap
+ 1088  clear
+ 1089  ./count_swap
+ 1090  g++ Count_swap.cpp -o count_swap
+ 1091  vim merge_sort.cpp
+ 1092  g++ Count_swap.cpp -o count_swap
+ 1093  ./count_swap
+ 1094  clera
+ 1095  clear
+ 1096  vim merge_sort.cpp
+ 1097  g++ Count_swap.cpp -o count_swap
+ 1098  clear
+ 1099  vim merge_sort.cpp
+ 1100  g++ Count_swap.cpp -o count_swap
+ 1101  clear
+ 1102  ./count_swap
+ 1103  g++ Count_swap.cpp -o count_swap
+ 1104  clear
+ 1105  g++ Count_swap.cpp -o count_swap
+ 1106  ./count_swap
+ 1107  g++ Count_swap.cpp -o count_swap
+ 1108  clear
+ 1109  ./count_swap
+ 1110  exit
+ 1111  cd Desktop/Comput*
+ 1112  clear
+ 1113  vim Count_swap.cpp
+ 1114  exit
+ 1115  cd Desktop
+ 1116  cd Comput*
+ 1117  clear
+ 1118  g++ morgan* -o morgan_problem
+ 1119  ./morgan_problem
+ 1120  exit
+ 1121  cd Desktop/comput
+ 1122  cd Desktop/comput*
+ 1123  cd Desktop/Comp*
+ 1124  cd Desktop
+ 1125  clear
+ 1126  cd Comput*
+ 1127  clear
+ 1128  vim morgan_problem.cpp
+ 1129  cleR
+ 1130  clear
+ 1131  cd Desktop
+ 1132  cd Comput*
+ 1133  clear
+ 1134  vim commen.cpp
+ 1135  vim anagrams.cpp
+ 1136  history
+ 1137  history -> vim*
+ 1138  history
+ 1139  history /?
+ 1140  history ?
+ 1141  history ?\?
+ 1142  history ?
+ 1143  clear
+ 1144  man history
+ 1145  cd Desktop/Compu*
+ 1146  clear
+ 1147  g++ commen.cpp -o commen
+ 1148  clear
+ 1149  ./commen
+ 1150  g++ commen.cpp -o commen
+ 1151  ./commen
+ 1152  g++ commen.cpp -o commen
+ 1153  ./commen
+ 1154  g++ commen.cpp -o commen
+ 1155  ./commen
+ 1156  g++ commen.cpp -o commen
+ 1157  ./commen
+ 1158  clear
+ 1159  vim commen.cpp
+ 1160  g++ anagrams.cpp -o anagram
+ 1161  vim commen.cpp
+ 1162  g++ anagrams.cpp -o anagram
+ 1163  clear
+ 1164  ./anagram
+ 1165  g++ anagrams.cpp -o anagram
+ 1166  ./anagram
+ 1167  g++ anagrams.cpp -o anagram
+ 1168  ./anagram
+ 1169  g++ anagrams.cpp -o anagram
+ 1170  clear
+ 1171  g++ anagrams.cpp -o anagram
+ 1172  ./anagram
+ 1173  g++ anagrams.cpp -o anagram
+ 1174  ./anagram
+ 1175  g++ anagrams.cpp -o anagram
+ 1176  clear
+ 1177  ./anagram
+ 1178  g++ anagrams.cpp -o anagram
+ 1179  ./anagram
+ 1180  g++ anagrams.cpp -o anagram
+ 1181  ./anagram
+ 1182  g++ anagrams.cpp -o anagram
+ 1183  ./anagram
+ 1184  g++ anagrams.cpp -o anagram
+ 1185  ./anagram
+ 1186  g++ anagrams.cpp -o anagram
+ 1187  ./anagram
+ 1188  g++ anagrams.cpp -o anagram
+ 1189  ./anagram
+ 1190  g++ anagrams.cpp -o anagram
+ 1191  ./anagram
+ 1192  g++ anagrams.cpp -o anagram
+ 1193  ./anagram
+ 1194  g++ anagrams.cpp -o anagram
+ 1195  ./anagram
+ 1196  g++ anagrams.cpp -o anagram
+ 1197  ./anagram
+ 1198  g++ anagrams.cpp -o anagram
+ 1199  ./anagram
+ 1200  g++ anagrams.cpp -o anagram
+ 1201  ./anagram
+ 1202  g++ anagrams.cpp -o anagram
+ 1203  ./anagram
+ 1204  g++ anagrams.cpp -o anagram
+ 1205  ./anagram
+ 1206  g++ anagrams.cpp -o anagram
+ 1207  ./anagram
+ 1208  g++ anagrams.cpp -o anagram
+ 1209  ./anagram
+ 1210  g++ anagrams.cpp -o anagram
+ 1211  ./anagram
+ 1212  g++ anagrams.cpp -o anagram
+ 1213  clear
+ 1214  ./anagram
+ 1215  g++ anagrams.cpp -o anagram
+ 1216  ./anagram
+ 1217  g++ anagrams.cpp -o anagram
+ 1218  ./anagram
+ 1219  clear
+ 1220  history -h *.vi
+ 1221  history *.vim
+ 1222  history *vim
+ 1223  ping www.google.com
+ 1224  netstat
+ 1225  trace www.google.com
+ 1226  tracer www.google.com
+ 1227  ltrace www.google.com
+ 1228  cd Desktop
+ 1229  cd Compu*
+ 1230  clear
+ 1231  ll
+ 1232  rm 'vim*'
+ 1233  ll
+ 1234  l
+ 1235  g++ anagrams.cpp -o anagram
+ 1236  vim anagrams.cpp
+ 1237  history
+ 1238  ./anagram
+ 1239  l
+ 1240  vim geometric_progrestion.cpp
+ 1241  cd Desktop
+ 1242  cd Compu*
+ 1243  clear
+ 1244  l
+ 1245  g++ geometric_progrw* -o gemo
+ 1246  g++ geometric_progr* -o gemo
+ 1247  ./gemo
+ 1248  g++ geometric_progr* -o gemo
+ 1249  ./gemo
+ 1250  ping www.google.com
+ 1251  exit
+ 1252  cd Desktop
+ 1253  vim netsta*
+ 1254  rm netsta*
+ 1255  exit
+ 1256  cd Desktop
+ 1257  ping www.google.com -> abc.txt
+ 1258  touch abc.txt
+ 1259  ping www.google.com -> abc.txt
+ 1260  ping www.google.com 
+ 1261  ping www.google.com > ab.txt
+ 1262  vim ab.txt
+ 1263  rm ab.txt
+ 1264  rm abc.txt
+ 1265  clear
+ 1266  netstat
+ 1267  netstat > netstate.text
+ 1268  ping www.google.com > netstate.text
+ 1269  netstat -> netstat*
+ 1270  ping www.google.com >> netstat*
+ 1271  exi
+ 1272  exit
+ 1273  ping www.google.com
+ 1274  exit
+ 1275  cd Desktop
+ 1276  cd Compu*
+ 1277  clear
+ 1278  l
+ 1279  g++ sort_inp_list.cpp -o sort_inp
+ 1280  ./sort_inp
+ 1281  cd Desktop
+ 1282  cd Comput
+ 1283  cd Comput*
+ 1284  clear
+ 1285  ls
+ 1286  l
+ 1287  clear
+ 1288  l
+ 1289  vim sort_inp_list.cpp
+ 1290  rm sort_inp_list.cpp
+ 1291  exit
+ 1292  cd Desktop
+ 1293  vim unknown.cpp
+ 1294  exit
+ 1295  cd Desktop
+ 1296  cd Comput*
+ 1297  clear
+ 1298  vim set_map.cpp
+ 1299  rm set_map*
+ 1300  exit
+ 1301  tracertwww.google.com
+ 1302  tracert www.google.com
+ 1303  traceroute6[A www.google.com
+ 1304  netstat
+ 1305  exit
+ 1306  ping www.google.com
+ 1307  ping www.google.com
+ 1308  exit
+ 1309  vim Ext_GCD.cpp
+ 1310  cd Desktop
+ 1311  g++ Ext* -o exten 
+ 1312  ./exten
+ 1313  g++ Ext* -o exten 
+ 1314  ./exten
+ 1315  g++ Ext* -o exten 
+ 1316  ./exten
+ 1317  g++ Ext* -o exten 
+ 1318  ./exten
+ 1319  g++ Ext* -o exten 
+ 1320  ./exten
+ 1321  cd Desktop
+ 1322  vim GCD
+ 1323  vim GCD.cpp
+ 1324  g++ GCD.cpp -o euclidian
+ 1325  ./eucli*
+ 1326  cd Desktop/Comput*
+ 1327  clear
+ 1328  vim hash_table.cpp
+ 1329  cd Desktop/Compu*
+ 1330  g++ hash_table.cpp -o hash
+ 1331  ./hash
+ 1332  g++ hash_table.cpp -o hash
+ 1333  clear
+ 1334  g++ hash_table.cpp -o hash
+ 1335  hash
+ 1336  1
+ 1337  clear
+ 1338  ./hash
+ 1339  g++ hash_table.cpp -o hash
+ 1340  clear
+ 1341  g++ hash_table.cpp -o hash
+ 1342  clear
+ 1343  g++ hash_table.cpp -o hash
+ 1344  clear
+ 1345  g++ hash_table.cpp -o hash
+ 1346  clear
+ 1347  g++ hash_table.cpp -o hash
+ 1348  clear
+ 1349  g++ hash_table.cpp -o hash
+ 1350  clear
+ 1351  g++ hash_table.cpp -o hash
+ 1352  ./hash
+ 1353  g++ hash_table.cpp -o hash
+ 1354  ./hash
+ 1355  g++ hash_table.cpp -o hash
+ 1356  ./hash
+ 1357  g++ hash_table.cpp -o hash
+ 1358  ./hash
+ 1359  g++ hash_table.cpp -o hash
+ 1360  ./hash
+ 1361  g++ hash_table.cpp -o hash
+ 1362  ./hash
+ 1363  g++ hash_table.cpp -o hash
+ 1364  clear
+ 1365  g++ hash_table.cpp -o hash
+ 1366  clear
+ 1367  g++ hash_table.cpp -o hash
+ 1368  clear
+ 1369  g++ hash_table.cpp -o hash
+ 1370  ./hash
+ 1371  g++ hash_table.cpp -o hash
+ 1372  ./hash
+ 1373  g++ hash_table.cpp -o hash
+ 1374  ./hash
+ 1375  g++ hash_table.cpp -o hash
+ 1376  ./hash
+ 1377  3
+ 1378  g++ hash_table.cpp -o hash
+ 1379  10
+ 1380  ./hash
+ 1381  g++ hash_table.cpp -o hash
+ 1382  ./hash
+ 1383  g++ hash_table.cpp -o hash
+ 1384  ./hash
+ 1385  g++ hash_table.cpp -o hash
+ 1386  ./hash
+ 1387  g++ hash_table.cpp -o hash
+ 1388  ./hash
+ 1389  g++ hash_table.cpp -o hash
+ 1390  ./hash
+ 1391  g++ hash_table.cpp -o hash
+ 1392  ./hash
+ 1393  g++ hash_table.cpp -o hash
+ 1394  ./hash
+ 1395  g++ hash_table.cpp -o hash
+ 1396  ./hash
+ 1397  g++ hash_table.cpp -o hash
+ 1398  ./hash
+ 1399  3
+ 1400  4
+ 1401  ./hash
+ 1402  3
+ 1403  4
+ 1404  2
+ 1405  ./hash
+ 1406  g++ hash_table.cpp -o hash
+ 1407  ./hash
+ 1408  l
+ 1409  vim hash_table.cpp 
+ 1410  g++ tuble_pro.cpp -o tuble
+ 1411  clear
+ 1412  g++ tuble_pro.cpp -o tuble
+ 1413  clear
+ 1414  g++ tuble_pro.cpp -o tuble
+ 1415  ./tuble
+ 1416  2
+ 1417  3
+ 1418  ./tuble
+ 1419  g++ tuble_pro.cpp -o tuble
+ 1420  ./tuble
+ 1421  g++ tuble_pro.cpp -o tuble
+ 1422  ./tuble
+ 1423  g++ tuble_pro.cpp -o tuble
+ 1424  ./tuble
+ 1425  g++ tuble_pro.cpp -o tuble
+ 1426  ./tuble
+ 1427  g++ tuble_pro.cpp -o tuble
+ 1428  ./tuble
+ 1429  g++ tuble_pro.cpp -o tuble
+ 1430  exit
+ 1431  cd Desk*
+ 1432  cd Compu*
+ 1433  clear
+ 1434  l
+ 1435  vim hash*.cpp
+ 1436  vim tuble_pro.cpp
+ 1437  exit
+ 1438  cd Desktop/Comput*
+ 1439  clear
+ 1440  vim max_sub_array.cpp
+ 1441  vim num_worker.cpp
+ 1442  vim max_sub_array.cpp
+ 1443  cd Desktop/Compu*
+ 1444  clear
+ 1445  g++ max_sub_array.cpp -o max_subarray
+ 1446  ./max_subarray
+ 1447  g++ max_sub_array.cpp -o max_subarray
+ 1448  c;lear
+ 1449  clear
+ 1450  g++ max_sub_array.cpp -o max_subarray
+ 1451  clear
+ 1452  g++ num_worker.cpp -o candies
+ 1453  ./candies
+ 1454  g++ num_worker.cpp -o candies
+ 1455  ./candies
+ 1456  g++ num_worker.cpp -o candies
+ 1457  ./candies
+ 1458  g++ num_worker.cpp -o candies
+ 1459  ./candies
+ 1460  g++ num_worker.cpp -o candies
+ 1461  ./candies
+ 1462  g++ num_worker.cpp -o candies
+ 1463  ./candies
+ 1464  g++ num_worker.cpp -o candies
+ 1465  ./candies
+ 1466  g++ num_worker.cpp -o candies
+ 1467  ./candies
+ 1468  g++ num_worker.cpp -o candies
+ 1469  ./candies
+ 1470  g++ num_worker.cpp -o candies
+ 1471  ./candies
+ 1472  g++ num_worker.cpp -o candies
+ 1473  ./candies
+ 1474  g++ num_worker.cpp -o candies
+ 1475  ./candies
+ 1476  g++ num_worker.cpp -o candies
+ 1477  ./candies
+ 1478  g++ num_worker.cpp -o candies
+ 1479  ./candies
+ 1480  g++ num_worker.cpp -o candies
+ 1481  ./candies
+ 1482  g++ num_worker.cpp -o candies
+ 1483  ./candies
+ 1484  clear
+ 1485  vim num_worker.cpp
+ 1486  l
+ 1487  vim max_sub_array.cpp
+ 1488  cd Desktop/Comput*
+ 1489  clar
+ 1490  clear
+ 1491  ll
+ 1492  vim max_sub*
+ 1493  vim max_sub_array.cpp
+ 1494  exit
+ 1495  cd Desktop/Comput*
+ 1496  clear
+ 1497  g++ max_sub_array.cpp -o max_sub
+ 1498  clear
+ 1499  ./max_sub
+ 1500  clear
+ 1501  ./max_sub
+ 1502  g++ max_sub_array.cpp -o max_sub
+ 1503  ./max_sub
+ 1504  g++ max_sub_array.cpp -o max_sub
+ 1505  clear
+ 1506  g++ max_sub_array.cpp -o max_sub
+ 1507  clear
+ 1508  g++ max_sub_array.cpp -o max_sub
+ 1509  ./max_sub
+ 1510  g++ max_sub_array.cpp -o max_sub
+ 1511  clear
+ 1512  ./max_sub
+ 1513  g++ max_sub_array.cpp -o max_sub
+ 1514  ./max_sub
+ 1515  g++ max_sub_array.cpp -o max_sub
+ 1516  ./max_sub
+ 1517  g++ max_sub_array.cpp -o max_sub
+ 1518  ./max_sub
+ 1519  g++ max_sub_array.cpp -o max_sub
+ 1520  lear
+ 1521  clear
+ 1522  g++ max_sub_array.cpp -o max_sub
+ 1523  clear
+ 1524  ./max_sub
+ 1525  clear
+ 1526  g++ max_sub_array.cpp -o max_sub
+ 1527  ./max_sub
+ 1528  g++ max_sub_array.cpp -o max_sub
+ 1529  ./max_sub
+ 1530  exit
+ 1531  pip install catboost
+ 1532  pip -list
+ 1533  pip -l
+ 1534  pip list
+ 1535  exit
+ 1536  jupyter
+ 1537  jupyter-notebook
+ 1538  exit
+ 1539  ping www.google.com
+ 1540  cd Desktop/Comput*
+ 1541  clear
+ 1542  g++ Castle_grid.cpp -o castle
+ 1543  ./castle
+ 1544  g++ Castle_grid.cpp -o castle
+ 1545  ./castle
+ 1546  rm cast*
+ 1547  clear
+ 1548  exit
+ 1549  cd Desktop
+ 1550  cd Comput*
+ 1551  clear
+ 1552  vim Castle_grid.cpp
+ 1553  rm Castle*
+ 1554  l
+ 1555  exit
+ 1556  cd Desktop/Comput*
+ 1557  clear
+ 1558  l
+ 1559  vim parmute.cpp
+ 1560  vim anagrams.cpp
+ 1561  exit
+ 1562  cd Desktop/Compu*
+ 1563  clear
+ 1564  vim road_libr.cpp
+ 1565  exit
+ 1566  cd Desktop/Comp*
+ 1567  cd Desktop/Compu*
+ 1568  clear
+ 1569  g++ road_libr.cpp -o road
+ 1570  ./road
+ 1571  g++ road_libr.cpp -o road
+ 1572  ./road
+ 1573  g++ road_libr.cpp -o road
+ 1574  ./road
+ 1575  g++ road_libr.cpp -o road
+ 1576  ./road
+ 1577  g++ road_libr.cpp -o road
+ 1578  ./road
+ 1579  g++ road_libr.cpp -o road
+ 1580  ./road
+ 1581  vim data_file.txt
+ 1582  ./road < file.txt
+ 1583  ./road < ./file.txt
+ 1584  ./road < /Desktop/Computative/file.txt
+ 1585  ./road < file.txt
+ 1586  cat file.txt
+ 1587  vim  file.txt
+ 1588  vim  data_file.txt
+ 1589  ./road <data_file.txt
+ 1590  ./road<data_file.txt
+ 1591  g++ road_libr.cpp -o road
+ 1592  ./road<data_file.txt
+ 1593  g++ road_libr.cpp -o road
+ 1594  ./road<data_file.txt
+ 1595  g++ road_libr.cpp -o road
+ 1596  ./road<data_file.txt
+ 1597  g++ road_libr.cpp -o road
+ 1598  ./road<data_file.txt
+ 1599  g++ road_libr.cpp -o road
+ 1600  ./road<data_file.txt
+ 1601  g++ road_libr.cpp -o road
+ 1602  ./road<data_file.txt
+ 1603  g++ road_libr.cpp -o road
+ 1604  ./road<data_file.txt
+ 1605  g++ road_libr.cpp -o road
+ 1606  ./road<data_file.txt
+ 1607  g++ road_libr.cpp -o road
+ 1608  ./road<data_file.txt
+ 1609  g++ road_libr.cpp -o road
+ 1610  ./road<data_file.txt
+ 1611  g++ road_libr.cpp -o road
+ 1612  ./road<data_file.txt
+ 1613  g++ road_libr.cpp -o road
+ 1614  ./road<data_file.txt
+ 1615  cat data_file.txt
+ 1616  ./road<data_file.txt
+ 1617  g++ road_libr.cpp -o road
+ 1618  ./road<data_file.txt
+ 1619  g++ road_libr.cpp -o road
+ 1620  ./road<data_file.txt
+ 1621  g++ road_libr.cpp -o road
+ 1622  ./road<data_file.txt
+ 1623  g++ road_libr.cpp -o road
+ 1624  ./road<data_file.txt
+ 1625  clera
+ 1626  clear
+ 1627  ./road<data_file.txt
+ 1628  g++ road_libr.cpp -o road
+ 1629  clear
+ 1630  ./road<data_file.txt
+ 1631  g++ road_libr.cpp -o road
+ 1632  ./road<data_file.txt
+ 1633  g++ road_libr.cpp -o road
+ 1634  clear
+ 1635  g++ road_libr.cpp -o road
+ 1636  ./road<data_file.txt
+ 1637  g++ road_libr.cpp -o road
+ 1638  ./road<data_file.txt
+ 1639  g++ road_libr.cpp -o road
+ 1640  ./road<data_file.txt
+ 1641  g++ road_libr.cpp -o road
+ 1642  ./road<data_file.txt
+ 1643  g++ road_libr.cpp -o road
+ 1644  ./road<data_file.txt
+ 1645  g++ road_libr.cpp -o road
+ 1646  ./road<data_file.txt
+ 1647  g++ road_libr.cpp -o road
+ 1648  ./road<data_file.txt
+ 1649  g++ road_libr.cpp -o road
+ 1650  ./road<data_file.txt
+ 1651  g++ road_libr.cpp -o road
+ 1652  ./road<data_file.txt
+ 1653  g++ road_libr.cpp -o road
+ 1654  ./road<data_file.txt
+ 1655  g++ road_libr.cpp -o road
+ 1656  ./road<data_file.txt
+ 1657  vim data_file.txt
+ 1658  ./road<data_file.txt
+ 1659  vim data_file.txt
+ 1660  ./road<data_file.txt
+ 1661  g++ road_libr.cpp -o road
+ 1662  ./road<data_file.txt
+ 1663  g++ road_libr.cpp -o road
+ 1664  ./road<data_file.txt
+ 1665  g++ road_libr.cpp -o road
+ 1666  ./road<data_file.txt
+ 1667  vim data_file.txt
+ 1668  g++ road_libr.cpp -o road
+ 1669  ./road<data_file.txt
+ 1670  vim data_file.txt
+ 1671  ./road<data_file.txt
+ 1672  vim data_file.txt
+ 1673  ./road<data_file.txt
+ 1674  vim data_file.txt
+ 1675  ./road<data_file.txt
+ 1676  vim data_file.txt
+ 1677  ./road<data_file.txt
+ 1678  exit
+ 1679  ping www.google.com
+ 1680  exit
+ 1681  ping www.google.com
+ 1682  ping 192.168.0.105
+ 1683  ping www.google.com
+ 1684  exit
+ 1685  netstat
+ 1686  ping www.google.com
+ 1687  ping www.google.com -n 10000
+ 1688  ping www.google.com
+ 1689  exit
+ 1690  cd Desktop/Comput*
+ 1691  clear
+ 1692  vim nearest_path.cpp
+ 1693  exirt
+ 1694  exit
+ 1695  cd Desk*/Comput*
+ 1696  g++ nearest_*.cpp -o nearest
+ 1697  ./nearest
+ 1698  vim nearest_inp
+ 1699  ./nearest<nearest_inp
+ 1700  g++ nearest_*.cpp -o nearest
+ 1701  clear
+ 1702  g++ nearest_*.cpp -o nearest
+ 1703  clear
+ 1704  g++ nearest_*.cpp -o nearest
+ 1705  clear
+ 1706  ./nearest<nearest_inp
+ 1707  g++ nearest_*.cpp -o nearest
+ 1708  ./nearest<nearest_inp
+ 1709  g++ nearest_*.cpp -o nearest
+ 1710  ./nearest<nearest_inp
+ 1711  g++ nearest_*.cpp -o nearest
+ 1712  ./nearest<nearest_inp
+ 1713  clear
+ 1714  ./nearest<nearest_inp
+ 1715  g++ nearest_*.cpp -o nearest
+ 1716  ./nearest<nearest_inp
+ 1717  g++ nearest_*.cpp -o nearest
+ 1718  ./nearest<nearest_inp
+ 1719  g++ nearest_*.cpp -o nearest
+ 1720  ./nearest<nearest_inp
+ 1721  vim nearestinp
+ 1722  vim nearest_inp
+ 1723  g++ nearest_*.cpp -o nearest
+ 1724  clear
+ 1725  ./nearest<nearest_inp
+ 1726  vim nearest_inp
+ 1727  g++ nearest_*.cpp -o nearest
+ 1728  clear
+ 1729  g++ nearest_*.cpp -o nearest
+ 1730  ./nearest<nearest_inp
+ 1731  vim nearest_inp
+ 1732  ./nearest<nearest_inp
+ 1733  g++ nearest_*.cpp -o nearest
+ 1734  ./nearest<nearest_inp
+ 1735  g++ nearest_*.cpp -o nearest
+ 1736  ./nearest<nearest_inp
+ 1737  g++ nearest_*.cpp -o nearest
+ 1738  ./nearest<nearest_inp
+ 1739  g++ nearest_*.cpp -o nearest
+ 1740  ./nearest<nearest_inp
+ 1741  g++ nearest_*.cpp -o nearest
+ 1742  ./nearest<nearest_inp
+ 1743  g++ nearest_*.cpp -o nearest
+ 1744  clear
+ 1745  ./nearest<nearest_inp
+ 1746  g++ nearest_*.cpp -o nearest
+ 1747  ./nearest<nearest_inp
+ 1748  vim nearest_inp
+ 1749  ./nearest<nearest_inp
+ 1750  clear
+ 1751  ./nearest<nearest_inp
+ 1752  g++ nearest_*.cpp -o nearest
+ 1753  ./nearest<nearest_inp
+ 1754  g++ nearest_*.cpp -o nearest
+ 1755  ./nearest<nearest_inp
+ 1756  g++ nearest_*.cpp -o nearest
+ 1757  clear
+ 1758  g++ nearest_*.cpp -o nearest
+ 1759  clear
+ 1760  g++ nearest_*.cpp -o nearest
+ 1761  clear
+ 1762  ./nearest<nearest_inp
+ 1763  g++ nearest_*.cpp -o nearest
+ 1764  ./nearest<nearest_inp
+ 1765  g++ nearest_*.cpp -o nearest
+ 1766  ./nearest<nearest_inp
+ 1767  pip install django
+ 1768  pip3 install django
+ 1769  python manager.py runserver
+ 1770  cd Desktop
+ 1771  nkdir Djan_pro
+ 1772  mkdir Djan_pro
+ 1773  cd Dj*
+ 1774  django-admin startproject first
+ 1775  python manager.py runserver
+ 1776  python3 manager.py runserver
+ 1777  exit
+ 1778  vim demo
+ 1779  cd Desktop
+ 1780  cd Comput*
+ 1781  clear
+ 1782  l
+ 1783  find bubble
+ 1784  find bub*
+ 1785  find b
+ 1786  find b*
+ 1787  cd ..
+ 1788  l
+ 1789  find admin*
+ 1790  ps
+ 1791  top
+ 1792  ps lf
+ 1793  clear
+ 1794  w
+ 1795  sudo apt-get update
+ 1796  sudo apt-get update &
+ 1797  sudo apt-get upgrade
+ 1798  sudo apt-get update
+ 1799  clear
+ 1800  bg
+ 1801  fg
+ 1802  sleep 100
+ 1803  bg
+ 1804  fg
+ 1805  bg
+ 1806  jobs
+ 1807  sleep 100 &
+ 1808  jobs
+ 1809  jobs -100
+ 1810  jobs -1
+ 1811  fg
+ 1812  ps
+ 1813  ps -al
+ 1814  man ps
+ 1815  ps >> toush process.text
+ 1816  ps > toush process.text
+ 1817  touch process.text
+ 1818  ps > touch process.text
+ 1819  ps -al > touch process.text
+ 1820  ps -al >process.text
+ 1821  vim process*
+ 1822  rm process*
+ 1823  ps -elf
+ 1824  exit
+ 1825  ps
+ 1826  ps -el
+ 1827  ps -al
+ 1828  ps -u
+ 1829  ps -afl
+ 1830  ps -elf
+ 1831  clear
+ 1832  ppstree
+ 1833  \ppstree
+ 1834  pstree
+ 1835  man pstree 
+ 1836  pstree -al
+ 1837  clear
+ 1838  top ps
+ 1839  top ps -al
+ 1840  ps -al
+ 1841  ps -al top
+ 1842  top < ps -al
+ 1843  q.top
+ 1844  q. top
+ 1845  q top
+ 1846  ps -al top
+ 1847  ps -al . top
+ 1848  ps -al > top
+ 1849  ps -al > top > cat
+ 1850  ps -al > top 
+ 1851  ps -al > top 10
+ 1852  top ps -al
+ 1853  top treeps
+ 1854  ps -al > cat top
+ 1855  ps -al > cat
+ 1856  touch demo
+ 1857  ps -al > demo && top demo
+ 1858  ps -al > demo && cat top demo
+ 1859  vim demo
+ 1860  l
+ 1861  vim demo
+ 1862  claear
+ 1863  clear
+ 1864  cat top demo
+ 1865  cat top 10  demo
+ 1866  cat top 1  demo
+ 1867  clear
+ 1868  rm demo
+ 1869  ps -al
+ 1870  top
+ 1871  clear
+ 1872  at now + 1 day
+ 1873  sudo apt-ge install at
+ 1874  sudo apt-get install at
+ 1875  man at
+ 1876  ls
+ 1877  vim cat
+ 1878  rm cat top
+ 1879  l
+ 1880  clear
+ 1881  cron
+ 1882  sudo cron
+ 1883  crontab
+ 1884  cd /
+ 1885  clea
+ 1886  rclear
+ 1887  cleart
+ 1888  clear
+ 1889  l
+ 1890  cd etc
+ 1891  l
+ 1892  l export*
+ 1893  l exports
+ 1894  sudo systemctl start nfs
+ 1895  cd ..
+ 1896  clear
+ 1897  l
+ 1898  cd temp
+ 1899  cd tmp
+ 1900  cat /etc/exports
+ 1901  mount
+ 1902  sudo systemctl stop nfs
+ 1903  clear
+ 1904  cd /
+ 1905  l
+ 1906  cd bin
+ 1907  l
+ 1908  cd ~
+ 1909  clea
+ 1910  clear
+ 1911  cd Desktop*/Compu*
+ 1912  l
+ 1913  diff bubble.cpp fasan.c
+ 1914  diff bubble.cpp bubble.cpp
+ 1915  diff bubble.cpp max_sub*.cpp
+ 1916  clear
+ 1917  l
+ 1918  l
+ 1919  ll
+ 1920  gio list -a "standard::display-name"
+ 1921  vim hall_ticket.pdf
+ 1922  vim demo.text
+ 1923  cd Desktop
+ 1924  touch demo.text
+ 1925  ping www.google.com >> demo.text
+ 1926  cat demo.text
+ 1927  rm demo.text
+ 1928  exit
+ 1929  chmod +w demo.text
+ 1930  sudo chmod +w demo.text
+ 1931  ls -al demo.text
+ 1932  cat demo.text
+ 1933  ping www.google.com >>demo.text
+ 1934  ping www.google.com >demo.text
+ 1935  cat demo.text
+ 1936  ping www.google.com >demo.text
+ 1937  cat demo.text
+ 1938  ping www.google.com >>demo.text
+ 1939  ping www.google.com >demo.text
+ 1940  cat demo.text
+ 1941  vim demo.text
+ 1942  cat demo*
+ 1943  cat demo.text
+ 1944  ls -al demo.text
+ 1945  sudo chmod 777 dem.text
+ 1946  sudo chmod 777 demo.text
+ 1947  echo sdsdsd
+ 1948  echo "step1> OPen setting Set Google Drive\nstep2> Open Googledrive using File System \nStep3: Open Terminal Using right Click\n Step4: need to onfigure ($gio list -a 'standard::display-name')" > demo.text
+ 1949  cat demo.text
+ 1950  echo "step1> OPen setting Set Google Drive/nstep2> Open Googledrive using File System /nStep3: Open Terminal Using right Click/n Step4: need to onfigure ($gio list -a 'standard::display-name')" > demo.text
+ 1951  sudo chmod 777 demo.text
+ 1952  mkdir Backup_file
+ 1953  vim demo.text
+ 1954  cat demo.text
+ 1955  vim demo.text
+ 1956  cat demo.text
+ 1957  cd backup
+ 1958  cd -i backup
+ 1959  cd Backup
+ 1960  ls
+ 1961  gio list -a "standard::display-name"
+ 1962  cd Backup_file
+ 1963  clear
+ 1964  touch data.txt
+ 1965  sudo touch data.txt
+ 1966  ls
+ 1967  cat data.txt
+ 1968  gedit data.txt
+ 1969  cat data.txt
+ 1970  rm data.txt
+ 1971  rl
+ 1972  l
+ 1973  touch data.txt
+ 1974  l
+ 1975  sudo touch data.txt
+ 1976  l
+ 1977  ls
+ 1978  sudo touch data.txt
+ 1979  l
+ 1980  exit
+ 1981  cd Backup_file
+ 1982  touch data
+ 1983  l
+ 1984  vim data
+ 1985  cat data
+ 1986  gedit data
+ 1987  cat data
+ 1988  vim data
+ 1989  cat data
+ 1990  exit
+ 1991  ls
+ 1992  gio list -a "standard::display-name"
+ 1993  gio list "standard::display-name"
+ 1994  cpy * /run/user/1000/gvfs/google-drive:host=gmail.com,user=sattyam.mandal.77/1QxskVSsdHrJ5IOIU378s511MRgLKuDTB
+ 1995  cp * /run/user/1000/gvfs/google-drive:host=gmail.com,user=sattyam.mandal.77/1QxskVSsdHrJ5IOIU378s511MRgLKuDTB
+ 1996  gzip -d *
+ 1997  exit
+ 1998  rsync -ps * /run/user/1000/gvfs/google-drive:host=gmail.com,user=sattyam.mandal.77/1QxskVSsdHrJ5IOIU378s511MRgLKuDTB
+ 1999  gcp -rf * /run/user/1000/gvfs/google-drive:host=gmail.com,user=sattyam.mandal.77/1QxskVSsdHrJ5IOIU378s511MRgLKuDTB
+ 2000  cp * /run/user/1000/gvfs/google-drive:host=gmail.com,user=sattyam.mandal.77/1QxskVSsdHrJ5IOIU378s511MRgLKuDTB
+ 2001  who
+ 2002  alias
+ 2003  history tail 1
+ 2004  history> tail 1
+ 2005  history >tail 1
+ 2006  history > echo tail 1
+ 2007  history > tail 1 >echo
+ 2008  history > tail 1 & echo
+ 2009  history > tail  & echo
+ 2010  tail < history
+ 2011  echo tail < history
+ 2012  history
+ 2013  ping www.google.com
+ 2014  echo tail < history
+ 2015  history
+ 2016  echo $tail < history
+ 2017  echo $tail history
+ 2018  ping www.google.com
+ 2019  echo $tail history
+ 2020  echo $tail < $history
+ 2021  echo $history
+ 2022  history
+ 2023  echo $history > tail
+ 2024  history > $abc
+ 2025  history > tail
